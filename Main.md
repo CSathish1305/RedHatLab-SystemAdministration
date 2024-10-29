@@ -39,3 +39,22 @@
   - Creating Group
   - Modify Group
   - Delete Group
+# Server Administration Tasks
+
+# 1.Installing Web Server 
+  - Installing Apache Server
+  - Modifying Apache Server Home Page
+  - Monitor Apache Error Logs
+# 2.Firewall
+  - Understanding Firewall
+  - Configuring Firewall Rules
+# 3.Installing PHP 
+  -  Installing PHP
+  -  Links
+  -  Test PHP on Apacher Server
+# 4. Installing MySQL Database
+  - Installing MySQL Package
+  - Configuring MySQL Server
+  - Working with MySQL Commands
+  - Using MySQL in PHP
+  - Fixing Issue and Testing the Script
