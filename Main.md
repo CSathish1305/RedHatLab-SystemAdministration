@@ -22,20 +22,20 @@
   - Monitoring Processes
   - Realtime Process Monitoring
 # 6.Managing User Environment variables
-  Using Environment Variables
-  Setting Local Environment Variables
-  Setting Global Environment Variables
+  - Using Environment Variables
+  - Setting Local Environment Variables
+  - Setting Global Environment Variables
 # 7.Compressing & Archiving 
-  Compress Data
+  - Compress Data
 # 8.Filesystem & Storage Device Management 
-  Monitoring Disk Space
-  User & Group Management (Additional category for completeness)
-  Using the Root User Account
-  Create User
-  Delete User
-  Locking and Unlocking User Accounts
-  Using Sudo Command
-  Understanding Groups
-  Creating Group
-  Modify Group
-  Delete Group
+  - Monitoring Disk Space
+  - User & Group Management
+  - Using the Root User Account
+  - Create User
+  - Delete User
+  - Locking and Unlocking User Accounts
+  - Using Sudo Command
+  - Understanding Groups
+  - Creating Group
+  - Modify Group
+  - Delete Group
