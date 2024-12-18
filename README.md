@@ -57,17 +57,14 @@
 # 7.Compressing & Archiving 
   - Compress Data
 # 8.Filesystem & Storage Device Management 
-  - Monitoring Disk Space
-  - User & Group Management
-  - Using the Root User Account
-  - Create User
-  - Delete User
+  - Monitoring Disk Space using Df and Du Commands
+    ![Screenshot 2024-12-18 172752](https://github.com/user-attachments/assets/26d89f72-d088-4464-861a-9dc4076ebdd1)
+# 9.User & Group Management
+  - Using Useradd & Userdel Commands Create a User & Delete the User 
+    ![image](https://github.com/user-attachments/assets/f19076a0-4b80-4fbf-93c4-ceae000aca6f)
   - Locking and Unlocking User Accounts
-  - Using Sudo Command
-  - Understanding Groups
-  - Creating Group
-  - Modify Group
-  - Delete Group
+  - Understanding Groups, Creating Groups, Modify Groups, Delete Groups
+
 # Server Administration Tasks
 
 # 1.Installing Web Server 
