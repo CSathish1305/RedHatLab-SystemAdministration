@@ -1,4 +1,4 @@
-# System-Administration & Sever-Administration
+# RedHatLab-SystemAdministration 
 - GOAL : To Learn and Gain Hands On Experience on the Basics of System Administration and Server Administration using Red Hat OS
 # System Administration Tasks 
 # 1.Text Manipulation
